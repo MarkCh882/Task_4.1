@@ -1,15 +1,21 @@
 # Инструкция по работе с GIT
 
-LICENSE: [MIT](./license.md)
+*LICENSE*: [**MIT**](./license.md)
 
-![git-logo](./assets/Git-logo.svg.png)
+![*git-logo*](./assets/Git-logo.svg.png)
 
 ---
 
 ### Содержание:
-1. [git init](./init.md)
-2. [git add](./add.md)
+1. [**git init**](./init.md)
+2. [**git add**](./add.md)
+3. [**git remote**](./remote.md)
+4. [**git status**](./status.md)
+5. [**git commit**](./commit.md)
+6. [**git push**](./push.md)
 
 ---
 
-GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+*GIT logo by Jason Long* - http://git-scm.com/downloads/logos, *license*: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+---
